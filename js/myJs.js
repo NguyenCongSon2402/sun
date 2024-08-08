@@ -10,7 +10,7 @@
   text9: "Anh đẹp try vlllll",
   text10: "Anh biết mà ^^ I Love 300.000",
   text11:
-    "Tối thứ 7 anh qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho anh đi nàooo",
+    "Tối thứ 7 anh qua đón em đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho anh đi nàooo",
   text12: "Okii lunn <3",
 };
 
