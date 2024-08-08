@@ -7,7 +7,7 @@
   text6: "HI Em rảnh <3",
   text7: "Có thấy anh đẹp troai khum :vvvv",
   text8: "Gửi cho anh <3",
-  text9: "Anh đẹp try vlllll",
+  text9: "Anh đẹp try lammmmmmm",
   text10: "Anh biết mà ^^ I Love 300.000",
   text11:
     "Tối thứ 7(10/08) anh qua đón em đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho anh đi nàooo",
