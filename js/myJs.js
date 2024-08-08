@@ -1,10 +1,10 @@
-const textConfig = {
+ const textConfig = {
   text1: "He luu em!",
   text2: "Anh có điều này muốn hỏi em nhớ phải trả lời thật lòng nhaaa.",
   text3: "Thứ 7 này em có rảnh khum ._.",
   text4: "Nếu em ko trả lời mà thoát ra tức là muốn làm destiny anh rùi đó nha :v",
   text5: "Em bận rồi???",
-  text6: "HI HI HI <3",
+  text6: "HI Em rảnh <3",
   text7: "Có thấy anh đẹp troai khum :vvvv",
   text8: "Gửi cho anh <3",
   text9: "Anh đẹp try vlllll",
