@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.messenger.com/e2ee/t/6426489680786273";
+            window.location = "https://m.me/sonnguyen762";
           },
         });
       }
