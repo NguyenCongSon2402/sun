@@ -5,12 +5,12 @@
   text4: "Nếu em ko trả lời mà thoát ra tức là muốn làm destiny anh rùi đó nha :v",
   text5: "Em bận rồi???",
   text6: "HI Em rảnh <3",
-  text7: "Có thấy anh đẹp troai khum :vvvv",
+  text7: "Mai đi xem phim với anh nhá :vvvv",
   text8: "Gửi cho anh <3",
-  text9: "Anh đẹp try lammmmmmm",
-  text10: "Anh biết mà ^^ I Love 300.000",
+  text9: "oki anh",
+  text10: "HÍ HÍ HÍ ",
   text11:
-    "Tối thứ 7(10/08) anh qua đón em đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho anh đi nàooo",
+    "Vậy mai anh qua đón em đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho anh đi nàooo",
   text12: "Okii lunn <3",
 };
 
