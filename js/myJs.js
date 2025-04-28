@@ -7,7 +7,7 @@
   text6: "HI Em rảnh <3",
   text7: "Mai đi xem phim thám tử kiên với anh nhá :vvvv",
   text8: "Gửi cho anh <3",
-  text9: "oki anh",
+  text9: "oki anh iu",
   text10: "HÍ HÍ HÍ ",
   text11:
     "Vậy mai anh qua đón em đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho anh đi nàooo",
